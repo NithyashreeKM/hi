@@ -2,6 +2,6 @@
 a = 10
 b = 20
 
-sum = a + b
+sumadd = a + b
 
 print("Sum =", sum)
